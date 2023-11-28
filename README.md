@@ -3,6 +3,8 @@ This example demonstrates how to build a multi-modal search (image and video) us
 
 Querying using one modality (e.g. text) will include results in all available modalities (e.g. images and video), as all objects will be encoded into a single vector space.
 
+Here is a link to a [demo video](https://www.loom.com/share/a272c0c08ae74b1db778c63934d17fc9?sid=9d35af16-dcbf-4313-9fb9-ecad34e12b11) I recorded if you don't want to play with the code.
+
 ## Weaviate Setup
 
 The ImageBind model is only available with local Weaviate deployments with Docker or Kubernetes.
